@@ -1,0 +1,2 @@
+# Pagination
+A Pagination Component
